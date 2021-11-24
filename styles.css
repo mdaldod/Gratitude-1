@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    color: blanchedalmond;
+    background-color: rgb(124, 110, 120);
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    text-decoration: underline;
+    color: coral;
+}
+
+#Thankfulness{
+    color: rgb(48, 34, 47);
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#Last-Paragraph {
+    font-style: italic;
+}
